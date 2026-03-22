@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Harshit Mohta! 👋
 
-<!--
-**mohtaharshit6/mohtaharshit6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- **Branch:** Computer Science and Engineering
+- **Institution:** VIT Bhopal University (Batch 2025-2029)
+- **Registration No:** 25BCE10337
 
-Here are some ideas to get you started:
+### 🚀 My Goals
+I am deeply passionate about **Full-Stack Web Development** and mastering **Data Structures and Algorithms (DSA)**. My goal is to leverage efficient algorithmic logic to build scalable, high-performance digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Interests
+- **Languages:** C++, Python, HTML/CSS
+- **Frameworks:** Flask
+- **Libraries:** Matplotlib for Data Visualization
